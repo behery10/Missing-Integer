@@ -4,16 +4,18 @@ This project compares two algorithms to find the smallest missing positive integ
 
 1.  **Compile the code**:
     Use a C compiler (like GCC) to compile `main.c`.
-    ```bash
+   
     gcc main.c -o project
-    ```
+    
 
 2.  **Run the program**:
-    ```bash
+   
     ./project
-    ```
 
-3.  **Follow the prompts**:
+    or use code blocks and run Algo project.cbp
+  
+
+4.  **Follow the prompts**:
     - Enter the number of elements.
     - Enter the elements (integers) one by one or separated by spaces.
 
