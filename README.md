@@ -26,5 +26,5 @@ This project compares two algorithms to find the smallest missing positive integ
 
 ## Algorithms Included
 
-- **Non-Recursive**: Fast approach using a checklist ($O(N)$).
-- **Recursive**: Educational approach using Bubble Sort ($O(N^2)$).
+- **Non-Recursive**: Fast approach using a checklist (O(N)).
+- **Recursive**: Educational approach using Bubble Sort (O(N^2)).
